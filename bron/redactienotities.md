@@ -1,6 +1,6 @@
 # Uit de postbak van de redacteur
 
-Alle berichten hieronder zijn fictief. Gebruik de releasevolgorde in `releases.json` als tijdlijn.
+Gebruik de releasevolgorde in `releases.json` als tijdlijn.
 
 **Projectbeheerder, vóór R1.** De woningstaat is onze bron voor getallen en beschikbaarheid. Publiceer de woningen die ik expliciet aanwijs in de release. Gebruik een interne redactielijst om publiceerbare feiten van open vragen te onderscheiden.
 

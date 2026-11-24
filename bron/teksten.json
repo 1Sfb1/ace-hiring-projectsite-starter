@@ -1,8 +1,8 @@
 {
   "project": {
     "name": "Luwtewerf",
-    "nl": "Aan een fictieve binnenhaven liggen vier verschillende woningen rond een gedeelde binnenplaats. De entree aan de werfstraat verbindt de huizen met het waterpad.",
-    "en": "Four distinct homes share a courtyard beside a fictional inland harbour. An entrance on the wharf street connects the homes to the waterside path."
+    "nl": "Aan een binnenhaven liggen vier verschillende woningen rond een gedeelde binnenplaats. De entree aan de werfstraat verbindt de huizen met het waterpad.",
+    "en": "Four distinct homes share a courtyard beside an inland harbour. An entrance on the wharf street connects the homes to the waterside path."
   },
   "homes": {
     "W01": {

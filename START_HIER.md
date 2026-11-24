@@ -1,6 +1,6 @@
 # Luwtewerf
 
-Dit is het bronpakket voor een fictief woonproject aan een binnenhaven. Alle namen, woningen, prijzen en teksten zijn gemaakt voor deze proef. Gebruik de bestanden in een eigen kopie. De richtinzet is 26 uur binnen twee kalenderweken vanaf toewijzing.
+Met de woningstaat, teksten en releaseproeven in dit pakket bouw je de projectsite voor Luwtewerf. Gebruik de bestanden in een eigen kopie. De richtinzet is 26 uur binnen twee kalenderweken vanaf toewijzing.
 
 ## Wat vind je hier?
 
@@ -14,7 +14,7 @@ Dit is het bronpakket voor een fictief woonproject aan een binnenhaven. Alle nam
 
 De projectbeheerder beslist over feiten en noemt de woningen voor een release. De redacteur keurt per woning beide taalteksten goed. Een kandidaat-release met een ontbrekende goedkeuring of dubbele slug mag de vorige live-versie niet vervangen. Publiceer in beide talen dezelfde selectie. De variant met een fout mag je lokaal voor de redacteur laten zien.
 
-Voor de publieke site telt wat het publicatieproces naar de publieke uitvoermap of CMS-export schrijft. Bezoekers mogen via pagina's, directe URL's, publieke JSON of sitemap uitsluitend de vrijgegeven selectie terugvinden. De fictieve bronbestanden mogen in je openbare oefenrepository staan. Een lokale conceptpreview volstaat.
+Voor de publieke site telt wat het publicatieproces naar de publieke uitvoermap of CMS-export schrijft. Bezoekers mogen via pagina's, directe URL's, publieke JSON of sitemap uitsluitend de vrijgegeven selectie terugvinden. Je mag de bronbestanden uit dit pakket opnemen in je openbare repository. Een lokale conceptpreview volstaat.
 
 ## Overdracht
 
