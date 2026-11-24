@@ -1,0 +1,5 @@
+id,naam,slug,floor,area_m2,rooms,asking_price_eur,status
+W01,Atelierhuis,atelierhuis,0,72,3,395000,available
+W02,Brughuis,brughuis,1,96,4,489000,available
+W03,Lichtkamer,lichtkamer,2,81,3,429000,available
+W04,Hofwoning,hofwoning,0,108,4,549000,available

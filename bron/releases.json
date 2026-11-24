@@ -1,0 +1,28 @@
+[
+  {
+    "id": "R1",
+    "base": "source",
+    "selected": ["W01", "W02"],
+    "changes": []
+  },
+  {
+    "id": "R2-proef",
+    "base": "R1",
+    "selected": ["W01", "W02", "W03"],
+    "changes": [
+      {"id": "W01", "field": "status", "value": "reserved", "source": "projectbeheerder"},
+      {"id": "W02", "field": "area_m2", "value": 92, "source": "ingemeten correctie, projectbeheerder"},
+      {"id": "W03", "field": "slug", "value": "brughuis", "source": "conceptkaart redactie"}
+    ]
+  },
+  {
+    "id": "R2",
+    "base": "R1",
+    "selected": ["W01", "W02", "W03"],
+    "changes": [
+      {"id": "W01", "field": "status", "value": "reserved", "source": "projectbeheerder"},
+      {"id": "W02", "field": "area_m2", "value": 92, "source": "ingemeten correctie, projectbeheerder"},
+      {"id": "W03", "field": "en.state", "value": "approved", "source": "vrijgave eindredacteur"}
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "project": {
+    "name": "Luwtewerf",
+    "nl": "Aan een fictieve binnenhaven liggen vier verschillende woningen rond een gedeelde binnenplaats. De entree aan de werfstraat verbindt de huizen met het waterpad.",
+    "en": "Four distinct homes share a courtyard beside a fictional inland harbour. An entrance on the wharf street connects the homes to the waterside path."
+  },
+  "homes": {
+    "W01": {
+      "nl": {"state": "approved", "copy": "De eigen entree geeft direct toegang tot de leefruimte. Een werkhoek aan de straatzijde kijkt uit op de werfstraat."},
+      "en": {"state": "approved", "copy": "A private entrance leads straight into the living space. A work nook at the front looks out on the wharf street."}
+    },
+    "W02": {
+      "nl": {"state": "approved", "copy": "De woonkamer ligt op de eerste verdieping. De overloop vormt een rustige verbinding tussen de slaapvertrekken en de eetkeuken."},
+      "en": {"state": "approved", "copy": "The living room sits on the first floor. A quiet landing links the bedrooms to the kitchen and dining area."}
+    },
+    "W03": {
+      "nl": {"state": "approved", "copy": "Een brede raampartij langs de binnenplaats brengt licht in de leefruimte. De slaapvertrekken liggen aan de andere zijde van de woning."},
+      "en": {"state": "draft", "copy": "Wide courtyard windows bring light into the living space. The bedrooms are on the opposite side of the home."}
+    },
+    "W04": {
+      "nl": {"state": "draft", "copy": "Ontwerpnotitie voor de Hofwoning. De ligging van de hoofdentree wordt nog beoordeeld."},
+      "en": {"state": "draft", "copy": "Design note for the courtyard home. The position of its main entrance is still under review."}
+    }
+  }
+}
